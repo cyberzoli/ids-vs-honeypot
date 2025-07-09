@@ -68,13 +68,4 @@ Logs, configs and screenshots are included in the `/implementation` folder.
 
 ---
 
-## 📁 Repository Contents
 
-```plaintext
-📁 /implementation
-├── cowrie_ssh_config.txt
-├── cowrie_telnet_log.txt
-├── valhala_ftp_output.txt
-├── suricata_ssh_rules.yaml
-📄 Torok_Dolgozat.pdf
-📄 README.md
